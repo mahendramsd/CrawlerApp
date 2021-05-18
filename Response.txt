@@ -1,0 +1,25 @@
+============================== 
+URL: http://www.tourismmin.gov.lk/
+Keywords found: Tourism
+Location mentioned: 
+
+============================== 
+URL: https://www.srilanka.travel/
+Keywords found: Safari,Whale Watching,Island,Tourism,Heritage,Hotels
+Location mentioned: Sri Lanka,Colombo,Sigiriya
+
+============================== 
+URL: https://www.srilanka.travel/sitemap
+Keywords found: Safari,Whale Watching,Tourism,Heritage,Hotels
+Location mentioned: Sri Lanka,Colombo,Sigiriya,Galle
+
+============================== 
+URL: https://www.srilanka.travel/contact-details
+Keywords found: Safari,Whale Watching,Tourism,Heritage,Hotels
+Location mentioned: Sri Lanka,Colombo,Sigiriya,Galle
+
+============================== 
+URL: https://www.srilanka.travel/travel-news
+Keywords found: Safari,Whale Watching,Paradise,Island,Leisure,Wild Life,Tourism,Heritage,Hotels
+Location mentioned: Sri Lanka,Colombo,Trinco,Sigiriya,Galle
+
